@@ -1,0 +1,8 @@
+[Addon]
+Name=Eurolatin Nordic
+Category=InputMethod
+Version=@PROJECT_VERSION@
+Library=eurolatin-nordic
+Type=SharedLibrary
+OnDemand=True
+Configurable=True
